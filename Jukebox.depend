@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1439464765 source:f:\computers\practice\programming\c\jukebox\main.c
+	<stdio.h>
+	<conio.h>
+	<dos.h>
+	<windows.h>
+	<stdlib.h>
+	"Jukebox.h"
+
+1432287508 source:f:\computers\practice\programming\c\jukebox\resource.rc
+
+1433652567 f:\computers\practice\programming\c\jukebox\jukebox.h
+
